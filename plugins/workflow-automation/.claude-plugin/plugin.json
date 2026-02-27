@@ -1,0 +1,9 @@
+{
+  "name": "workflow-automation",
+  "description": "Discover, prototype, and automate any workflow using Claude Cowork. Walks users through process mining, connector setup, hands-on prototyping, and skill building — end to end.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Glia Intelligence",
+    "email": "team@glia.ai"
+  }
+}

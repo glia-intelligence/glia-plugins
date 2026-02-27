@@ -1,0 +1,9 @@
+{
+  "name": "executive-assistant",
+  "description": "Build a personalized AI executive assistant tailored to how you work. Interviews you, connects your tools, and generates a custom EA skill with scheduled tasks for morning briefs, end-of-day digests, and weekly reviews.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Glia Intelligence",
+    "email": "team@glia.ai"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "glia",
+  "owner": {
+    "name": "Glia Intelligence",
+    "email": "team@glia.ai"
+  },
+  "metadata": {
+    "description": "Official Glia Intelligence skills and tools for Claude",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "workflow-automation",
+      "source": "./plugins/workflow-automation",
+      "description": "Discover, prototype, and automate any workflow using Claude Cowork. Walks users through process mining, connector setup, hands-on prototyping, and skill building — end to end.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["automation", "workflow", "productivity", "process-mining"]
+    },
+    {
+      "name": "executive-assistant",
+      "source": "./plugins/executive-assistant",
+      "description": "Build a personalized AI executive assistant tailored to how you work. Interviews you, connects your tools, and generates a custom EA skill with scheduled tasks for morning briefs, end-of-day digests, and weekly reviews.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["executive-assistant", "email", "calendar", "meetings", "productivity"]
+    }
+  ]
+}
